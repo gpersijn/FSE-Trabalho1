@@ -57,6 +57,7 @@ def menu():
             print('2 - lampada 02')
             print('3 - projetor')
             print('4 - ar-condicionado')
+            print('5 - todos')
             print('_____________________________')
 
             print(

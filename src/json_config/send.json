@@ -1,8 +1,8 @@
 {
   "ip_servidor_central": "192.168.1.148",
   "porta_servidor_central": 10845,
-  "ip_sala_01": "164.41.98.16",
-  "porta_sala_01": 10849,
+  "ip_sala_01": "164.41.98.28",
+  "porta_sala_01": 10846,
   "ip_sala_02": "164.41.98.26",
   "porta_sala_02": 10847,
   "sala01": [
@@ -85,7 +85,7 @@
       "outputs": [
         {
           "type": "lampada 01",
-          "status": "OFF",
+          "status": "ON",
           "gpio": 26
         },
         {
@@ -105,7 +105,7 @@
         },
         {
           "type": "alarme",
-          "status": "OFF",
+          "status": "ON",
           "gpio": 5
         }
       ],
@@ -136,7 +136,7 @@
           "gpio": 22
         },
         {
-          "type": "contagem de pessoas - Sa\u00edda",
+          "type": "contagem de pessoas - Saida",
           "status": 0,
           "gpio": 27
         }
