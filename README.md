@@ -18,4 +18,4 @@ python3 app_central.py
 
 O log pode ser consultado no dir ./Log no arquivo .csv, a seguir um exemplo de Log:
 
-<img id="img-pc2" height="140" width="93em" src="https://ibb.co/MfzHSKz" alt="">
+<a href="https://ibb.co/MfzHSKz"><img src="https://i.ibb.co/pQHTwNH/Screenshot-from-2022-12-21-03-30-58.png" alt="Screenshot-from-2022-12-21-03-30-58" border="0"></a>
