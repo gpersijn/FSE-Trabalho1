@@ -105,7 +105,7 @@
         },
         {
           "type": "alarme",
-          "status": "ON",
+          "status": "OFF",
           "gpio": 5
         }
       ],
